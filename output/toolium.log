@@ -1,0 +1,71 @@
+DEBUG   2018-01-08 23:41:20,083 [config_parser] Reading properties from file: /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/conf/properties.cfg
+DEBUG   2018-01-08 23:41:20,084 [config_parser] Properties config file not found: /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/conf/local-properties.cfg
+INFO    2018-01-08 23:41:20,090 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-01-08 23:41:20,090 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-01-08 23:41:23,360 [driver_wrapper] Window size: 1297 x 744
+INFO    2018-01-08 23:41:23,363 [environment] Running new scenario: Download your Youtube Tracks -- @1.1 
+DEBUG   2018-01-08 23:41:35,457 [login] Searching for black motion's named imali
+DEBUG   2018-01-08 23:41:35,457 [login] 2nd Line Artist Name Text black motion
+DEBUG   2018-01-08 23:41:35,457 [login] 3nd Line Song Name Text imali
+DEBUG   2018-01-08 23:41:36,199 [login] Final Stuff black motion imali before Click
+DEBUG   2018-01-08 23:41:36,834 [login] After Click black motion imali
+ERROR   2018-01-08 23:41:44,889 [page_element] Page element of type 'Text' with locator ('xpath', '//a[contains(text(),"black motion")]') not found
+ERROR   2018-01-08 23:41:44,892 [environment] The scenario 'Download your Youtube Tracks -- @1.1 ' has failed
+INFO    2018-01-08 23:41:45,111 [utils] Screenshot saved in /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/output/screenshots/2018-01-08_234120_chrome/01_Download_your_Youtube_Tracks_1.1_.png
+DEBUG   2018-01-08 23:41:45,113 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-01-08 23:41:45,206 [config_parser] Reading properties from file: /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/conf/properties.cfg
+DEBUG   2018-01-08 23:41:45,212 [config_parser] Properties config file not found: /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/conf/local-properties.cfg
+INFO    2018-01-08 23:41:45,216 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-01-08 23:41:45,217 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-01-08 23:41:47,533 [driver_wrapper] Window size: 1297 x 744
+INFO    2018-01-08 23:41:47,536 [environment] Running new scenario: Download your Youtube Tracks -- @1.1 
+ERROR   2018-01-08 23:41:48,488 [environment] The scenario 'Download your Youtube Tracks -- @1.1 ' has failed
+DEBUG   2018-01-08 23:41:48,489 [utils] Reading logs from 'client, server' and writing them to log files
+DEBUG   2018-01-08 23:49:27,497 [config_parser] Reading properties from file: /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/conf/properties.cfg
+DEBUG   2018-01-08 23:49:27,497 [config_parser] Properties config file not found: /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/conf/local-properties.cfg
+INFO    2018-01-08 23:49:27,504 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-01-08 23:49:27,504 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-01-08 23:49:30,716 [driver_wrapper] Window size: 1297 x 744
+INFO    2018-01-08 23:49:30,718 [environment] Running new scenario: Download your Youtube Tracks -- @1.1 
+DEBUG   2018-01-08 23:49:37,971 [login] Searching for Eddie Murphy's named Party all the time
+DEBUG   2018-01-08 23:49:37,971 [login] 2nd Line Artist Name Text Eddie Murphy
+DEBUG   2018-01-08 23:49:37,972 [login] 3nd Line Song Name Text Party all the time
+DEBUG   2018-01-08 23:49:39,591 [login] Final Stuff Eddie Murphy Party all the time before Click
+DEBUG   2018-01-08 23:49:40,199 [login] After Click Eddie Murphy Party all the time
+DEBUG   2018-01-08 23:49:43,268 [login] https://www.youtube.com/watch?v=iWa-6g-TbgI
+DEBUG   2018-01-08 23:49:43,268 [login] https://www.youmagictube.com/watch?v=iWa-6g-TbgI
+DEBUG   2018-01-08 23:49:46,299 [login] https://www.youtube.com/watch?v=iWa-6g-TbgI
+DEBUG   2018-01-08 23:49:46,299 [login] https://www.youmagictube.com/watch?v=iWa-6g-TbgI
+DEBUG   2018-01-08 23:49:46,300 [login] Opening Web Page https://www.youmagictube.com/watch?v=iWa-6g-TbgI 
+DEBUG   2018-01-08 23:49:53,631 [login] Looping Function before 
+DEBUG   2018-01-08 23:49:53,631 [login] Found container
+DEBUG   2018-01-08 23:49:54,079 [login] Clicked and waiting
+DEBUG   2018-01-08 23:49:54,080 [login] done waiting
+DEBUG   2018-01-08 23:49:58,223 [login] Tapped CTRL Thrice
+ERROR   2018-01-08 23:50:13,337 [environment] The scenario 'Download your Youtube Tracks -- @1.1 ' has failed
+INFO    2018-01-08 23:50:13,522 [utils] Screenshot saved in /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/output/screenshots/2018-01-08_234927_chrome/01_Download_your_Youtube_Tracks_1.1_.png
+DEBUG   2018-01-08 23:50:13,524 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-01-16 15:56:03,012 [config_parser] Reading properties from file: /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/conf/properties.cfg
+DEBUG   2018-01-16 15:56:03,019 [config_parser] Properties config file not found: /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/conf/local-properties.cfg
+INFO    2018-01-16 15:56:03,028 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-01-16 15:56:03,028 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-01-16 15:56:05,192 [driver_wrapper] Window size: 1297 x 744
+INFO    2018-01-16 15:56:05,194 [environment] Running new scenario: Download your Youtube Tracks -- @1.1 
+DEBUG   2018-01-16 15:56:18,442 [search_and_download] Searching for Eddie Murphy's named Party all the time
+DEBUG   2018-01-16 15:56:18,442 [search_and_download] 2nd Line Artist Name Text Eddie Murphy
+DEBUG   2018-01-16 15:56:18,443 [search_and_download] 3nd Line Song Name Text Party all the time
+DEBUG   2018-01-16 15:56:19,427 [search_and_download] Final Stuff Eddie Murphy Party all the time before Click
+DEBUG   2018-01-16 15:56:19,758 [search_and_download] After Click Eddie Murphy Party all the time
+DEBUG   2018-01-16 15:56:22,809 [search_and_download] https://www.youtube.com/watch?v=iWa-6g-TbgI
+DEBUG   2018-01-16 15:56:22,809 [search_and_download] https://www.youmagictube.com/watch?v=iWa-6g-TbgI
+DEBUG   2018-01-16 15:56:25,838 [search_and_download] https://www.youtube.com/watch?v=iWa-6g-TbgI
+DEBUG   2018-01-16 15:56:25,838 [search_and_download] https://www.youmagictube.com/watch?v=iWa-6g-TbgI
+DEBUG   2018-01-16 15:56:25,839 [search_and_download] Opening Web Page https://www.youmagictube.com/watch?v=iWa-6g-TbgI 
+DEBUG   2018-01-16 15:56:35,307 [search_and_download] Looping Function before 
+DEBUG   2018-01-16 15:56:35,307 [search_and_download] Found container
+DEBUG   2018-01-16 15:56:35,653 [search_and_download] Clicked and waiting
+DEBUG   2018-01-16 15:56:35,655 [search_and_download] done waiting
+DEBUG   2018-01-16 15:56:39,774 [search_and_download] Tapped CTRL Thrice
+ERROR   2018-01-16 15:57:16,876 [environment] The scenario 'Download your Youtube Tracks -- @1.1 ' has failed
+INFO    2018-01-16 15:57:17,094 [utils] Screenshot saved in /home/darren/Documents/Automation Projects/Youtube to Mp3 downloader/output/screenshots/2018-01-16_155603_chrome/01_Download_your_Youtube_Tracks_1.1_.png
+DEBUG   2018-01-16 15:57:17,097 [utils] Reading logs from 'browser, driver' and writing them to log files

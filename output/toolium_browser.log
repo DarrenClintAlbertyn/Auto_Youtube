@@ -1,0 +1,438 @@
+
+2017-12-14 22:54:40.839732 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 22:54:32.795000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 22:54:32.872000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 22:54:33.669000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 22:54:34.041000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 22:54:34.503000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 22:57:17.693490 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 22:57:13.702000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 22:57:14.023000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 22:57:16.127000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 22:57:16.183000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 22:57:16.566000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 22:59:03.340739 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 22:58:59.459000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 22:58:59.532000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 22:59:02.140000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 22:59:02.216000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 22:59:02.471000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:00:26.206431 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:00:22.198000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:00:23.535000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:00:24.378000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:00:24.835000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:00:25.142000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:01:11.318203 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:01:06.657000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:01:07.120000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:01:08.738000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:01:09.112000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:01:09.532000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:05:43.386025 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:05:35.857000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:05:36.217000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:05:39.653000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:05:39.815000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:05:40.123000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:06:55.549522 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:06:51.410000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:06:52.762000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:06:53.564000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:06:53.960000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:06:54.418000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:08:54.378540 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:08:50.301000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:08:50.667000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:08:52.315000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:08:52.625000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:08:53.042000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:09:43.543618 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:09:40.708000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:09:40.775000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:09:41.669000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:09:42.088000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:09:42.396000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:10:48.079007 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:10:43.772000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:10:44.059000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:10:46.256000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:10:46.404000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:10:46.666000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:14:32.923752 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:14:28.849000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:14:29.121000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:14:31.507000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:14:31.608000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:14:31.878000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:15:51.056361 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:15:47.918000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:15:48.202000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:15:50.142000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:15:50.377000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-14 23:16:20.597136 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:16:12.806000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:16:13.038000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:16:14.926000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:16:15.241000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-14 23:17:32.687682 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:17:25.069000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:17:25.134000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:17:26.057000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:17:26.486000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:17:26.787000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:21:00.530852 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:20:48.207000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:20:48.624000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:20:50.250000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:20:50.622000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:20:50.946000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:21:27.576965 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:21:22.151000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:21:22.391000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:21:24.330000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:21:24.611000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:21:25.001000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:22:33.796159 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:22:29.705000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:22:29.968000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:22:31.816000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:22:32.172000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:22:32.562000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:24:15.810835 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:24:05.827000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:24:06.103000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:24:07.880000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:24:08.239000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:24:08.574000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:26:59.751902 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:26:57.108000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:26:57.184000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:26:57.944000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:26:58.334000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:26:58.623000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-14 23:55:20.506667 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-14 23:55:14.353000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-14 23:55:14.695000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-14 23:55:16.829000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:55:16.919000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-14 23:55:17.233000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+2017-12-14 23:55:19.769000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+2017-12-14 23:55:19.804000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+
+2017-12-15 00:04:39.663715 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:04:17.610000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 00:04:18.064000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 00:04:21.501000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:04:21.680000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:04:23.243000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 00:06:00.963990 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:05:49.306000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 00:05:50.045000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 00:05:51.307000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:05:51.812000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:05:52.161000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+2017-12-15 00:05:59.239000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+2017-12-15 00:05:59.314000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+
+2017-12-15 00:28:10.270931 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:28:05.726000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:28:05.726000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 00:29:03.393755 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:28:58.954000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:28:58.954000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 00:32:55.370956 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:32:44.837000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 00:32:45.212000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 00:32:47.351000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:32:47.490000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:32:47.777000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 00:35:55.567738 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:35:45.884000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:35:45.884000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 00:36:15.552252 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:36:05.038000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 00:36:06.547000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 00:36:07.362000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:36:07.836000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:36:08.124000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 00:37:32.325895 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:37:14.272000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 00:37:14.336000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 00:37:15.228000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:37:15.661000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:37:16.063000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+2017-12-15 00:37:25.360000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+2017-12-15 00:37:25.403000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+2017-12-15 00:37:27.319000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 00:37:27.375000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 00:37:28.109000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:37:28.418000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 00:40:46.201013 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:40:31.090000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 00:40:32.504000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 00:40:33.326000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:40:33.762000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:40:34.866000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+2017-12-15 00:40:39.484000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+2017-12-15 00:40:39.609000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+2017-12-15 00:40:41.567000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 00:40:41.623000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 00:40:42.327000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:40:42.609000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 00:44:26.247301 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 00:44:03.583000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 00:44:04.998000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 00:44:05.829000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:44:06.240000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 00:44:06.496000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 01:07:29.014304 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 01:07:11.197000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 01:07:11.509000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 01:07:14.758000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:07:14.878000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:07:15.270000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 01:09:18.737156 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 01:09:09.777000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:09:09.777000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 01:09:43.832402 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 01:09:26.371000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 01:09:26.445000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 01:09:29.718000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:09:29.853000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:09:30.200000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+2017-12-15 01:09:37.126000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+2017-12-15 01:09:37.170000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 17:73 "paper-tooltip:"
+2017-12-15 01:09:39.410000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 01:09:40.135000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 6995 /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 01:09:40.215000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:09:40.565000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 01:37:02.850330 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 01:36:53.448000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:36:53.495000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 01:41:01.079387 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 01:40:29.804000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 01:40:30.427000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 01:40:32.164000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:40:32.613000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:40:33.355000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 01:46:07.550149 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 01:45:26.830000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 01:45:28.321000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 01:45:29.467000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:45:30.113000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:45:30.764000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 01:48:00.253180 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 01:47:32.970000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 01:47:33.252000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 01:47:35.812000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:47:35.935000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:47:37.374000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 01:50:48.971866 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 01:50:05.030000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 01:50:06.541000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 01:50:07.451000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:50:07.836000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:50:08.213000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+2017-12-15 01:50:22.709000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 01:50:22.772000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 01:50:23.490000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:50:23.831000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 01:54:49.620925 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 01:54:17.361000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 01:54:17.735000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 01:54:20.050000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:54:20.524000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 01:54:23.023000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 02:06:25.958619 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 02:05:57.429000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 02:05:57.679000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 02:05:59.798000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 02:06:00.234000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 02:06:01.385000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 02:26:19.579879 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 02:25:53.349000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 02:25:54.947000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 02:25:55.945000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 02:25:56.456000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 02:25:56.722000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 02:41:29.321301 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 02:41:20.675000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 02:41:20.675000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+
+2017-12-15 02:42:10.196468 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 02:41:38.058000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 02:41:38.464000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 02:41:40.099000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 02:41:40.340000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 02:41:40.694000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9BW0_K/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-15 12:47:17.278417 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-15 12:46:48.097000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-15 12:46:48.610000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-15 12:46:50.833000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 12:46:51.310000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-15 12:46:52.552000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfluTZ68Q/desktop_polymer.js 1084 <link rel=preload> must have a valid `as` value
+
+2017-12-24 23:28:47.394440 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-24 23:28:17.058000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-24 23:28:17.244000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-24 23:28:18.074000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-24 23:28:18.580000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-24 23:28:18.856000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9HZ0Vk/desktop_polymer.js 1085 <link rel=preload> must have a valid `as` value
+
+2017-12-24 23:35:44.511507 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-24 23:35:22.553000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-24 23:35:22.632000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-24 23:35:23.518000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-24 23:35:24.148000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-24 23:35:25.355000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9HZ0Vk/desktop_polymer.js 1085 <link rel=preload> must have a valid `as` value
+
+2017-12-24 23:40:26.671041 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2017-12-24 23:39:49.693000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2017-12-24 23:39:49.764000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2017-12-24 23:39:50.609000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-24 23:39:51.149000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2017-12-24 23:39:51.646000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9HZ0Vk/desktop_polymer.js 1085 <link rel=preload> must have a valid `as` value
+
+2018-01-01 04:44:26.084296 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2018-01-01 04:44:11.163000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2018-01-01 04:44:11.242000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2018-01-01 04:44:12.245000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-01 04:44:12.748000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-01 04:44:13.074000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl9HZ0Vk/desktop_polymer.js 1085 <link rel=preload> must have a valid `as` value
+
+2018-01-08 23:39:54.325906 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2018-01-08 23:39:38.408000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2018-01-08 23:39:39.510000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2018-01-08 23:39:40.335000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:39:40.897000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:39:41.230000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vflC6U9n-/desktop_polymer.js 1088 <link rel=preload> must have a valid `as` value
+
+2018-01-08 23:40:13.565495 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2018-01-08 23:40:00.742000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2018-01-08 23:40:00.826000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2018-01-08 23:40:01.692000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:40:02.181000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:40:02.519000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vflC6U9n-/desktop_polymer.js 1088 <link rel=preload> must have a valid `as` value
+
+2018-01-08 23:40:54.268348 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2018-01-08 23:40:39.163000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2018-01-08 23:40:39.577000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2018-01-08 23:40:41.135000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:40:41.457000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:40:42.014000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vflC6U9n-/desktop_polymer.js 1088 <link rel=preload> must have a valid `as` value
+
+2018-01-08 23:41:45.116959 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2018-01-08 23:41:25.203000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2018-01-08 23:41:26.291000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2018-01-08 23:41:27.178000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:41:27.461000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:41:27.943000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vflC6U9n-/desktop_polymer.js 1088 <link rel=preload> must have a valid `as` value
+
+2018-01-08 23:50:13.529223 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2018-01-08 23:49:32.471000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2018-01-08 23:49:33.564000	WARNING	deprecation - /deep/ combinator in CSS is deprecated and will be removed in M63, around December 2017. See https://www.chromestatus.com/features/4964279606312960 for more details.
+2018-01-08 23:49:34.432000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:49:34.968000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-08 23:49:35.315000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vflC6U9n-/desktop_polymer.js 1088 <link rel=preload> must have a valid `as` value
+
+2018-01-16 15:57:17.100620 'Download your Youtube Tracks -- @1.1 ' test logs with driver = chrome
+
+2018-01-16 15:56:07.314000	WARNING	deprecation - Styling master document from stylesheets defined in HTML Imports is deprecated, and is planned to be removed in M65, around March 2018. Please refer to https://goo.gl/EGXzpw for possible migration paths.
+2018-01-16 15:56:09.590000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-16 15:56:09.927000	SEVERE	chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED
+2018-01-16 15:56:10.272000	WARNING	https://www.youtube.com/yts/jsbin/desktop_polymer-vfl43n2GK/desktop_polymer.js 1088 <link rel=preload> must have a valid `as` value
+2018-01-16 15:56:13.271000	WARNING	https://s.ytimg.com/yts/jsbin/www-widgetapi-vflkvQ6Kw/www-widgetapi.js 109 Unrecognized feature: 'autoplay'.
